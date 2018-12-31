@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "gatsby-starter-semantic-ui",
+  "description": null,
+  "icons": {
+    "60": "/icons-e67a323d9e10d7903b610658d74167bd/firefox_app_60x60.png",
+    "128": "/icons-e67a323d9e10d7903b610658d74167bd/firefox_app_128x128.png",
+    "512": "/icons-e67a323d9e10d7903b610658d74167bd/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
